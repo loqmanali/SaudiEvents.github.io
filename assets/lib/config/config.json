@@ -1,0 +1,48 @@
+{
+  "season": [
+    {
+      "name": "Foundation Day",
+      "setting": {
+        "mainColor": "#6B4E46",
+        "secondaryColor": "#D43654",
+        "partnerBgColor": "#40CAB5",
+        "fontFamily": "Arial",
+        "logo": "assets/image/saudi_founding_day.png",
+        "welcomeImage": "assets/image/saudi_founding_day.png"
+      }
+    },
+    {
+      "name": "Riyadh Season",
+      "setting": {
+        "mainColor": "#2E245A",
+        "secondaryColor": "#D43654",
+        "partnerBgColor": "#40CAB5",
+        "fontFamily": "Arial",
+        "logo": "assets/image/riyadhLogoios.png",
+        "welcomeImage": "assets/image/riyadhLogoios.png"
+      }
+    },
+    {
+      "name": "Jeddah Season",
+      "setting": {
+        "mainColor": "#40CAB5",
+        "secondaryColor": "#D43654",
+        "partnerBgColor": "#40CAB5",
+        "fontFamily": "Arial",
+        "logo": "assets/image/jeddah_logo.png",
+        "welcomeImage": "assets/image/jeddah_logo.png"
+      }
+    },
+    {
+      "name": "Aseer Season",
+      "setting": {
+        "mainColor": "#2E245A",
+        "secondaryColor": "#D43654",
+        "partnerBgColor": "#40CAB5",
+        "fontFamily": "Arial",
+        "logo": "assets/image/jeddah_logo.png",
+        "welcomeImage": "assets/image/jeddah_logo.png"
+      }
+    }
+  ]
+}
