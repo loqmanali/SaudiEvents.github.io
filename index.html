@@ -14,8 +14,8 @@
       This is a placeholder for base href that will be replaced by the value of
       the `--base-href` argument provided to `flutter build`.
     -->
-    <!--  <base href="/">-->
-    <base href="https://loqmanali.github.io/SaudiEvents.github.io/">
+      <base href="/">
+<!--    <base href="https://loqmanali.github.io/SaudiEvents.github.io/">-->
 
 
     <meta charset="UTF-8">
@@ -32,6 +32,21 @@
     <link rel="icon" type="image/png" href="favicon.png"/>
 
     <title>Saudi Event</title>
+    <style>
+        @font-face {
+          font-family: 'Roboto';
+          src: url('assets/fonts/Roboto-Regular.ttf') format('truetype');
+          font-weight: normal;
+        }
+        @font-face {
+          font-family: 'Roboto';
+          src: url('assets/fonts/Roboto-Bold.ttf') format('truetype');
+          font-weight: bold;
+        }
+        body {
+          font-family: 'Roboto', sans-serif;
+        }
+    </style>
     <link rel="manifest" href="manifest.json">
     <script>
         if ('serviceWorker' in navigator) {
@@ -43,5 +58,6 @@
 </head>
 <body>
 <script src="flutter_bootstrap.js" async></script>
+<script src="main.dart.js" type="application/javascript"></script>
 </body>
 </html>
